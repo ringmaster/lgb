@@ -1,0 +1,17 @@
+/*
+Theme Name:     Liam's Gecko Bars
+Theme URI:      http://redalt.com/
+Description:    A theme for the Liam's Gecko Bars site, built as a child of twentytwelve
+Author:         Owen Winkler
+Author URI:     http://owen.com/
+Template:       twentytwelve
+Version:        1.0
+*/
+@import url("../twentytwelve/style.css");
+
+html body.custom-background {
+  background-color: chartreuse;
+}
+h1, h1 a, .site-header h1 a {
+  color: chartreuse;
+}
